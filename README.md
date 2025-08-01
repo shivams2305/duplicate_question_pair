@@ -2,7 +2,7 @@
 
 A NLP project to find weather given 2 questions are same or not semantically speaking.
 
-The dataset I used is attached in the repository.
+Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 
 In this model I had did four things.
 
